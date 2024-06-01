@@ -1,2 +1,2 @@
 # Farcast
-Farcast nft on the github.
+Far.cast nft on the github.
