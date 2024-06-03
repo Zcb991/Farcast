@@ -1,7 +1,7 @@
 # Farcast
 Far.cast nft on the github.
 
-gogogo
+go to
 
 This is my mint address.
 
